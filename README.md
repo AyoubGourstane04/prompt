@@ -1,6 +1,6 @@
 # Réalisation de l'examen – Ingénierie de Prompt
 
-Ce dépôt contient la réalisation du **TP d'Ingénierie de Prompt appliquée à la génération de code avec l’IA**, effectué par **Ayoub Gourstane**.
+Ce dépôt contient la réalisation du **TP d'Ingénierie de Prompt appliquée à la génération de code avec l’IA**, effectuée par **Ayoub Gourstane**.
 
 ## Structure du projet
 
